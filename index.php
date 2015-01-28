@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "web server is running locally";
+            require_once(__DIR__ . "/controller/create.php");
         ?>
     </body>
 </html>
