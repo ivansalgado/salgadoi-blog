@@ -1,5 +1,6 @@
 <?php
-
+    $path = "/salgadoi-blog/";
+    
     $host = "localhost";
     $username  = "root";
     $password  = "root";
