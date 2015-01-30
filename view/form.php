@@ -4,7 +4,7 @@
 
 <h1>Create Blog Post</h1>
 
-<form method="post" action="<?php echo $path . "controller/create post.php"; ?>">
+<form method="post" action="<?php echo $path . "controller/create-post.php"; ?>">
     <div>
         <label for="title">Title: </label>
         <input type="text" name="title" />
