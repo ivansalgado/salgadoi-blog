@@ -56,6 +56,6 @@ class Database{
        
        $this->closeConnection();
        
-       return query;
+       return $query;
     }
 }
