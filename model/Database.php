@@ -13,6 +13,7 @@ class Database{
         $this->password;
         $this->database;
         
+        $this->connection = new mysqli($host, $username, $password);
         
     if ($this->connection->connect_error){
         die("<p>Error: " . $this->connection->connect_error . "</p>");
