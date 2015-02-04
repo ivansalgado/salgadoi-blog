@@ -1,0 +1,8 @@
+#1{
+    background-color: inherit;
+    color: white;
+}
+#1:hover{
+    background-color: white;
+    color: inherit;
+}
