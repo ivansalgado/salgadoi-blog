@@ -11,7 +11,7 @@ and open the template in the editor.
         <link rel="shortcut icon" type="image/x-icon" href="ico/á.ico">
         <link type='text/css' rel='stylesheet' href='css/bootstrap-theme.css'>
         <link type='text/css' rel='stylesheet' href='css/bootstrap.css'>
-        <link type='text/css' rel='stylesheet' href='css/custom-css.css'>
+        <link type='text/css' rel='stylesheet' href='css/css.css'>
         <link href='http://fonts.googleapis.com/css?family=Carme' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Raleway:600' rel='stylesheet' type='text/css'>
         <title>Iván Salgado Blog</title>
