@@ -1,12 +1,11 @@
 #1{
-    background-color: inherit;
-    color: white;
-}
-#1:hover{
     background-color: white;
-    color: inherit;
 }
 
 body{
-    background-color: #e1edf7; 
+    background-color: #E0F2F1; 
+}
+
+text{
+    margin-left: 10px;
 }

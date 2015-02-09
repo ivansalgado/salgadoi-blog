@@ -19,7 +19,7 @@
     
     <div>
         <a type="submit">
-            <button type="button" class="btn">Post<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></button>
+            <button type="button" class="btn">Post</button>
         </a>
     </div>
 </form>
