@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <link rel="shortcut icon" type="image/x-icon" href="ico/á.ico">
         <link type='text/css' rel='stylesheet' href='css/bootstrap-theme.css'>
         <link type='text/css' rel='stylesheet' href='css/bootstrap.css'>
@@ -16,5 +16,4 @@ and open the template in the editor.
         <link href='http://fonts.googleapis.com/css?family=Raleway:600' rel='stylesheet' type='text/css'>
         <title>Iván Salgado Blog</title>
     </head>
-    <body>
-        
+    <body>  

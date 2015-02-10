@@ -3,9 +3,9 @@
 }
 
 body{
-    background-color: #E0F2F1; 
+    background-color: #F2FBFC; 
 }
 
-text{
-    margin-left: 10px;
+.btn{
+    color: white;
 }

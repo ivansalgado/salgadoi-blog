@@ -5,9 +5,7 @@
 <nav>
     <ul>
         <li>
-            
-            <a href="<?php echo $path . "post.php" ?>"><button type="button" class="btn" id="1">Blog Post Form</button></a>
-            
+            <a href="<?php echo $path . "post.php" ?>"><button type="button" class="btn">Blog Post Form</button></a>
         </li>
     </ul>
 </nav>
