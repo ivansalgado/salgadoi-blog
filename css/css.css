@@ -8,6 +8,10 @@ body{
 
 .btn{
     color: #F2FBFC;
+    background-color: #BDBDBD;
+}
+.btn:hover{
+    color: #F2FBFC;
     background-color: #e0e0e0;
 }
 
