@@ -11,6 +11,7 @@
         $row = $query->fetch_array();
         
         if($row["password"] === crypt($password , $row["salt"])){
+            $_SESSION["authentication"]=true;
             echo "<p>Login successful</p>";
         }
         else{
