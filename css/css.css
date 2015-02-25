@@ -2,20 +2,206 @@
     background-color: white;
 }
 
-body{
-    background-color: #F2FBFC; 
+div{
+    border-style: solid;
+    border-width: 0px;
+    border-color: #bdbdbd;
+    padding: 15px;
 }
 
-.btn{
-    color: #F2FBFC;
-    background-color: #BDBDBD;
-}
-.btn:hover{
-    color: #F2FBFC;
-    background-color: #e0e0e0;
+a{
+    font-family: 'Carme', sans-serif;
+    color: #212121
 }
 
 h1{
-    font-size: 182.5px;
-    padding-bottom: 10px;
+    font-size:130px;
+    padding-top: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#greet{
+    color: #212121;
+}
+
+h2{
+    font-size:22px;
+    color: white;
+    font-family: 'Carme', sans-serif; 
+}
+
+h3{
+    color: black;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    font-family: 'Carme', sans-serif;
+}
+
+h4{
+    color: black;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.jumbotron{
+    
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    text-decoration-color: white;
+    
+}
+
+h6{
+    font-size: 60px;
+    font-family: 'Carme', sans-serif;
+    padding-bottom: 50px;
+    color: #757575;
+}
+
+body{
+    background: url("http://www.anticostone.com/wp-content/uploads/2014/11/Textile-Grey-12x24-BE36193.jpg");
+    padding-left: 100px;
+    padding-right: 100px;
+        
+}
+
+article{
+    font-size: 30px;
+    color: #FF9800;
+}
+
+p{
+    font-family: 'Carme', sans-serif;
+    font-size: 21px;
+}
+
+p2{
+    color: #FF9800;
+}
+
+.btn-group{
+    padding: 7px;
+}
+
+.navbar-header{
+    color: #FF9800;
+}
+
+#current-link{
+    background-color: #bdbdbd;
+    color: white;
+}
+
+#boot{
+    background-color: white;
+    color: #311B92;
+}
+#boot:hover{
+    background-color: #311B92;
+    color: white;
+}
+
+#melon{
+    background-color: white;
+    color: #64DD17;
+}
+#melon:hover{
+    color: white;
+    background-color: #64DD17;
+}
+
+#html{
+    color: black;
+    background-color: #8892BF;
+    font-family: 'Carme', sans-serif;
+}
+#html:hover{
+    color: white;
+    background-color: #8892BF;
+    font-family: 'Carme', sans-serif;
+}
+
+#css{
+    background-color: white;
+    color: #81D4FA;
+    font-family: 'Aldrich', sans-serif;
+}
+#css:hover{
+    color: white;
+    background-color: #81D4FA;
+    font-family: 'Aldrich', sans-serif;
+}
+
+#weird{
+    margin-left: 20px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pic{
+    background-image: url("http://francois-roux-photography.com/images/photographs/new-york-central-park/san-remo-lake-autumn-central-park-new-york.jpg");
+}
+
+#clickButton{
+    text-shadow: 5px;
+}
+
+#j{
+    background-color: white;
+    color: blue;
+}
+#j:hover{
+    color: white;
+    background-color: blue;
+}
+
+#i{
+    color: white;
+  //  background-color: #FF9800;
+    font-family: 'Raleway', sans-serif;
+    font-size: 75px;
+    color: #757575;
+    padding-bottom: 50px;
+}
+
+#so:hover{
+    text-decoration: none;
+}
+
+#fun{
+    padding-left: 265px;
+}
+
+#js{
+    background-color: white;
+    color: #FFEE58;
+}
+#js:hover{
+    color: white;
+    background-color: #FFEE58;
+}
+
+#mi{
+    font-size: 30px;
+    color: #FF9800;
+}
+
+#oo, #aa, #bb{
+    font-size: 90px;
+}
+
+#v{
+    color: #FF9800;
+    font-family: 'Poiret One', cursive;
+}
+#v:hover{
+    text-decoration: none;
 }
