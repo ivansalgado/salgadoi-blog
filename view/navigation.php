@@ -8,10 +8,11 @@
     }
 ?>
 
+<!--allows users to post (when logged in)-->
 <nav>
     <ul>
         <li>
-            <a href="<?php echo $path . "post.php" ?>"><button type="button" class="btn btn-default"><h1>Blog Post Form</h1></button></a>
+            <a href="<?php echo $path . "post.php" ?>"><button type="button" class="btn btn-default"><h5 id="s">Create a Post</h5></button></a>
         </li>
     </ul>
 </nav>

@@ -1,12 +1,13 @@
 <?php
 
 class Database {
-
+    //is not visible to the public
     private $connection;
     private $host;
     private $username;
     private $password;
     private $database;
+    //is displayed to the public
     public $error;
 
     public function __construct($host, $username, $password, $database) {
