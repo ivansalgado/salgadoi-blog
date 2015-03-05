@@ -15,4 +15,9 @@
             <a href="<?php echo $path . "post.php" ?>"><button type="button" class="btn btn-default"><h5 id="s">Create a Post</h5></button></a>
         </li>
     </ul>
+    <ul>
+        <li>
+            <a href="<?php echo $path . "/../controller/logout-user.php" ?>"><button type="button" class="btn btn-default"><h5 id="s">Log Out</h5></button></a>
+        </li>
+    </ul>
 </nav>

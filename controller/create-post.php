@@ -8,6 +8,7 @@
     
     if ($query) {
         echo "<p>Successfully inserted post: $title</p>";
+        header("Location: " . $path . "/../index.php");
     }
     else {
         echo "<p>" . $_SESSION["connection"]->error . "</p>";

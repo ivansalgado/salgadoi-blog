@@ -9,6 +9,7 @@
     
     //links to all google, css, and jquery files
     echo "<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>";
+    echo "<link rel='shortcut icon' type='image/x-icon' href='ico/b.ico'>";
     echo "<link type='text/css' rel='stylesheet' href='../css/bootstrap-theme.css'>";
     echo "<link type='text/css' rel='stylesheet' href='../css/bootstrap.css'>";
     echo "<link type='text/css' rel='stylesheet' href='../css/css.css' />";
@@ -20,7 +21,8 @@
     echo "<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/lids/jqueryui/1.11.2/themes/smoothness/juery-ui.css' />";
 ?>
 <!--submits posts-->
-<h1>Create Blog Post</h1>
+<div class="jumbotron">
+<h1>Create a Post</h1>
 <form method="post" action="<?php echo $path . "controller/create-post.php"; ?>">
     <!--name your post-->
     <div>
@@ -37,6 +39,7 @@
         <button type="submit">Submit</button>
     </div>
 </form>
+</div>
 
 
 <!--jquery scripts-->

@@ -3,6 +3,7 @@
     //links to all google, css, and jquery files
     require_once(__DIR__ . "/../model/config.php");
     echo "<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>";
+    echo "<link rel='shortcut icon' type='image/x-icon' href='ico/b.ico'>";
     echo "<link type='text/css' rel='stylesheet' href='../css/bootstrap-theme.css'>";
     echo "<link type='text/css' rel='stylesheet' href='../css/bootstrap.css'>";
     echo "<link type='text/css' rel='stylesheet' href='../css/css.css' />";

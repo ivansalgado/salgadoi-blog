@@ -7,7 +7,7 @@
     $username = filter_input(INPUT_POST, "username", FILTER_SANITIZE_STRING);
     $password = filter_input(INPUT_POST, "password", FILTER_SANITIZE_STRING);
     
-    //telling the ... to select the salt and password from a user's username
+    //asking to select the salt and password from a user's username
     $query = $_SESSION["connection"]->query("SELECT salt, password FROM users WHERE username = '$username'");
     
     if($query->num_rows == 1){
